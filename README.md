@@ -16,7 +16,7 @@ Spire/
 
 The site may also be accessed on spire.saturday-s.com if i find the time to set cloudflare and nginx up :D
 
-## Option 1: Run it with Docker (easierrr)
+## Option 1: Run it with Docker (Simpler :D)
 
 1. Install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
    (Windows, Mac, or Linux) and open it once so it's running in the background (Important)
