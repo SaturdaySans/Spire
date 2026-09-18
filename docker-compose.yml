@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: ./Server
+    ports:
+      - "4000:4000"
+    environment:
+      - TZ=Asia/Singapore
+    volumes:
+      - ./Server:/app
+      - /app/node_modules
+
+  frontend:
+    build: ./Client
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
