@@ -3,6 +3,8 @@
 A minimal idle browser screen with widgets like homework list,
 revision planner, and a live timetable.
 
+![preview](Assets/preview.png)
+
 ## Project layout
 
 ```
@@ -11,6 +13,8 @@ Spire/
 ├── Server/     Express backend with SQLite
 └── docker-compose.yml
 ```
+
+The site may also be accessed on spire.saturday-s.com if i find the time to set cloudflare and nginx up :D
 
 ## Option 1: Run it with Docker (easierrr)
 
