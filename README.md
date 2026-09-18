@@ -55,7 +55,7 @@ npm run dev
 This starts the app at whatever URL Vite prints in the terminal (usually
 `http://localhost:5173`)
 
-**Both need to be running at the same time** — the frontend yaps to the
+**Both ports need to be running at the same time**, the frontend yaps to the
 backend over `http://localhost:4000`.
 
 ## Database schema
