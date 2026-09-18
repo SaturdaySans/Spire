@@ -14,7 +14,7 @@ Spire/
 └── docker-compose.yml
 ```
 
-The site may also be accessed on spire.saturday-s.com if i find the time to set cloudflare and nginx up :D
+The site may also be accessed on [spire.saturday-s.com](spire.saturday-s.com) if i find the time to set cloudflare and nginx up :D
 
 ## Option 1: Run it with Docker (Simpler :D)
 
